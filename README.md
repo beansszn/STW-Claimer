@@ -52,7 +52,6 @@ The script will:
 ## Example Output
 
 ```bash
-Claiming STW nodes... [dots spinner]
 ✅ Claimed: HomebaseNode:questreward_buildingresourcecap
 ⚠️ Node already claimed: HomebaseNode:questreward_buildingresourcecap2
 ❌ Failed: HomebaseNode:questreward_evolution4: Item not found
