@@ -40,7 +40,7 @@ ACCOUNT_ID = "your_account_id_here"
 To run the script, simply execute it:
 
 ```bash
-python claim_nodes.py
+python main.py
 ```
 
 The script will:
